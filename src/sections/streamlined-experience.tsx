@@ -70,3 +70,4 @@ export const StreamlinedExperience = () => {
     </motion.section>
   );
 };
+// This component is a related to streamlined-experince
