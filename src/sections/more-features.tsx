@@ -68,3 +68,4 @@ export const MoreFeatures = () => {
     </motion.section>
   );
 };
+// This component is a related to more-features
