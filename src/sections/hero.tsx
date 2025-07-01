@@ -79,3 +79,4 @@ export const Hero = () => {
     </motion.section>
   );
 };
+// This component is a related to hero section
