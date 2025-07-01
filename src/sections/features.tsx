@@ -112,3 +112,4 @@ export const Features = () => {
     </section>
   );
 };
+// This component is a related to features
