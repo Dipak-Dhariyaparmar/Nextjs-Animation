@@ -104,3 +104,4 @@ export const Collaboration = () => {
     </section>
   );
 };
+// This component is a related to collaboration
