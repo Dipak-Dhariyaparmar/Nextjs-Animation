@@ -242,3 +242,4 @@ export const SamePage = () => {
     </section>
   );
 };
+// This component is a related to same-page 
