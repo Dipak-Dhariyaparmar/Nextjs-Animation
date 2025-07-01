@@ -26,3 +26,4 @@ export const  NoLockin = () => (
     </p>
   </section>
 );
+// This component is a related to no-lockin
